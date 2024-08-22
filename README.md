@@ -1,12 +1,12 @@
--> Start <-
+-> Start 
 # snow-beta-build
 Snow v0.3 Beta Build
 
--> Info <-
+-> Info 
 Created by zyze74
 Current Update: v0.3
 
--> Updates <-
+-> Updates 
 New features coming soon
 
--> End <-
+-> End 
