@@ -4,7 +4,7 @@ Snow Beta Build
 
 -> Info: 
 Created by zyze74,
-Current Update: v0.3
+Current Update: v0.31
 
 -> Not Working? 
 Please remember to disable real time protection before downloading this application.
@@ -15,6 +15,6 @@ not recognised by Windows.
 Run the .EXE through Virus Total for legitimacy purposes.
 
 -> Updates: 
-v0.31 Coming soon..
+Next update v0.32 soon..
 
 -> End 
