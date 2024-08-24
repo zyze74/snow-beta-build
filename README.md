@@ -12,7 +12,8 @@ This is not because it is a virus, it just detects the code as malicious as it i
 not recognised by Windows. 
 
 -> Think its a virus? 
-Run the .EXE through Virus Total for legitimacy purposes.
+I'm currently working on a workaround to make this code open-source without leaking 
+sensitive information, but I can personally assure you its not a virus.
 
 -> Updates: 
 Next update v0.32 soon..
