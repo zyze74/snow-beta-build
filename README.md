@@ -4,7 +4,7 @@ Snow Beta Build
 
 -> Info: 
 Created by zyze74,
-Current Update: v0.33
+Current Update: v0.34
 
 -> Not Working? 
 Please remember to disable real time protection before downloading this application.
@@ -16,6 +16,6 @@ I'm currently working on a workaround to make this code open-source without leak
 sensitive information, but I can personally assure you its not a virus.
 
 -> Updates: 
-Next update v0.34 soon..
+Next update v0.35 soon..
 
 -> End
