@@ -3,8 +3,8 @@
 Snow Beta Build
 
 -> Info: 
-What is Snow?
-A PC Cleaning/Optimising software 
+Created by zyze74,
+Current Update: v0.33
 
 -> Not Working? 
 Please remember to disable real time protection before downloading this application.
@@ -15,8 +15,7 @@ not recognised by Windows.
 I'm currently working on a workaround to make this code open-source without leaking 
 sensitive information, but I can personally assure you its not a virus.
 
--> Credits:
-Created by zyze74,
-Current Update: v0.33
+-> Updates: 
+Next update v0.34 soon..
 
 -> End
