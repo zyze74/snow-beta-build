@@ -1,7 +1,7 @@
 # Snow Beta Build
 
 **Created by:** zyze74  
-**Current Version:** v0.35  
+**Current Version:** v0.4  
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## 📝 Updates
 
-- **Next version:** v0.4  
+- **Next version:** v0.41
 - Stay tuned for improvements and new features!  
 
 ---
