@@ -1,21 +1,27 @@
--> Start 
-# snow-beta-build
-Snow Beta Build
+# Snow Beta Build
 
--> Info: 
-Created by zyze74,
-Current Update: v0.35
+**Created by:** zyze74  
+**Current Version:** v0.35  
 
--> Not Working? 
-Please remember to disable real time protection before downloading this application.
-This is not because it is a virus, it just detects the code as malicious as it is 
-not recognised by Windows. 
+---
 
--> Think its a virus? 
-I will make this code open-source without leaking ssensitive information in future, but I can personally assure you its not a virus.
+## ⚠️ Important Notes
 
--> Updates: 
-Next update v0.4.
+- If the application is **not working**, make sure to **temporarily disable real-time protection** before downloading.  
+  > This is not a virus — Windows may flag it as suspicious because the code is unsigned and not widely recognized.  
 
--> End
+- **Concerned it might be a virus?**  
+  I plan to make this project open-source in the future (without exposing sensitive information).  
+  You can trust that it is safe to run.  
 
+---
+
+## 📝 Updates
+
+- **Next version:** v0.4  
+- Stay tuned for improvements and new features!  
+
+---
+If you encounter issues or have feedback, feel free to reach out.
+
+- https://discord.gg/RWPZhhVj
